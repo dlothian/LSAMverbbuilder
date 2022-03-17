@@ -1,0 +1,14 @@
+[
+    {
+        "type": "subject",
+        "tip": "<p>Insert Subject Description</p>"
+    },
+    {
+        "type": "verb",
+        "tip": "<p>Insert Verb Description</p>"
+    },
+    {
+        "type": "tense",
+        "tip": "<p>Insert Tense Description</p>"
+    }
+]

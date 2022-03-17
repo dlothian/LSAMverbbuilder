@@ -1,0 +1,409 @@
+[
+    [
+        "subject",
+        "verb",
+        "tense",
+        "conjugation"
+    ],
+    {
+        "1p": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "niw\u00eekw\u00e2skoht\u00f4n\u00e2n"
+                ],
+                "prs": [
+                    "nikw\u00e2skoht\u00f4n\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00eekw\u00e2skoht\u00f4n\u00e2n"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "niw\u00eemetawen\u00e2n"
+                ],
+                "prs": [
+                    "nimetawen\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00eemetawen\u00e2n"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "niw\u00een\u00eemihton\u00e2n"
+                ],
+                "prs": [
+                    "nin\u00eemihton\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00een\u00eemihton\u00e2n"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "niw\u00eepimoht\u00e2n\u00e2n"
+                ],
+                "prs": [
+                    "nipimoht\u00e2n\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00eepimoht\u00e2n\u00e2n"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "niw\u00eepimpahtan\u00e2n"
+                ],
+                "prs": [
+                    "nipimpahtan\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00eepimpahtan\u00e2n"
+                ]
+            }
+        },
+        "1s": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "niw\u00eekw\u00e2skoht\u00f4n"
+                ],
+                "prs": [
+                    "nikw\u00e2skoht\u00f4n"
+                ],
+                "pst": [
+                    "nik\u00eekw\u00e2skoht\u00f4n"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "niw\u00eemetawen"
+                ],
+                "prs": [
+                    "nimetawen"
+                ],
+                "pst": [
+                    "nik\u00eemetawen"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "niw\u00een\u00eemihton"
+                ],
+                "prs": [
+                    "nin\u00eemihton"
+                ],
+                "pst": [
+                    "nik\u00een\u00eemihton"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "niw\u00eepimoht\u00e2n"
+                ],
+                "prs": [
+                    "nipimoht\u00e2n"
+                ],
+                "pst": [
+                    "nik\u00eepimoht\u00e2n"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "niw\u00eepimpahtan"
+                ],
+                "prs": [
+                    "nipimpahtan"
+                ],
+                "pst": [
+                    "nik\u00eepimpahtan"
+                ]
+            }
+        },
+        "2i": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "kiw\u00eekw\u00e2skoht\u00f4naw"
+                ],
+                "prs": [
+                    "kikw\u00e2skoht\u00f4naw"
+                ],
+                "pst": [
+                    "kik\u00eekw\u00e2skoht\u00f4naw"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "kiw\u00eemetawenaw"
+                ],
+                "prs": [
+                    "kimetawenaw"
+                ],
+                "pst": [
+                    "kik\u00eemetawenaw"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "kiw\u00een\u00eemihtonaw"
+                ],
+                "prs": [
+                    "kin\u00eemihtonaw"
+                ],
+                "pst": [
+                    "kik\u00een\u00eemihtonaw"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "kiw\u00eepimoht\u00e2naw"
+                ],
+                "prs": [
+                    "kipimoht\u00e2naw"
+                ],
+                "pst": [
+                    "kik\u00eepimoht\u00e2naw"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "kiw\u00eepimpahtanaw"
+                ],
+                "prs": [
+                    "kipimpahtanaw"
+                ],
+                "pst": [
+                    "kik\u00eepimpahtanaw"
+                ]
+            }
+        },
+        "2p": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "kiw\u00eekw\u00e2skoht\u00f4n\u00e2w\u00e2w"
+                ],
+                "prs": [
+                    "kikw\u00e2skoht\u00f4n\u00e2w\u00e2w"
+                ],
+                "pst": [
+                    "kik\u00eekw\u00e2skoht\u00f4n\u00e2w\u00e2w"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "kiw\u00eemetawen\u00e2w\u00e2w"
+                ],
+                "prs": [
+                    "kimetawen\u00e2w\u00e2w"
+                ],
+                "pst": [
+                    "kik\u00eemetawen\u00e2w\u00e2w"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "kiw\u00een\u00eemihton\u00e2w\u00e2w"
+                ],
+                "prs": [
+                    "kin\u00eemihton\u00e2w\u00e2w"
+                ],
+                "pst": [
+                    "kik\u00een\u00eemihton\u00e2w\u00e2w"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "kiw\u00eepimoht\u00e2n\u00e2w\u00e2w"
+                ],
+                "prs": [
+                    "kipimoht\u00e2n\u00e2w\u00e2w"
+                ],
+                "pst": [
+                    "kik\u00eepimoht\u00e2n\u00e2w\u00e2w"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "kiw\u00eepimpahtan\u00e2w\u00e2w"
+                ],
+                "prs": [
+                    "kipimpahtan\u00e2w\u00e2w"
+                ],
+                "pst": [
+                    "kik\u00eepimpahtan\u00e2w\u00e2w"
+                ]
+            }
+        },
+        "2s": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "kiw\u00eekw\u00e2skoht\u00f4n"
+                ],
+                "prs": [
+                    "kikw\u00e2skoht\u00f4n"
+                ],
+                "pst": [
+                    "kik\u00eekw\u00e2skoht\u00f4n"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "kiw\u00eemetawen"
+                ],
+                "prs": [
+                    "kimetawen"
+                ],
+                "pst": [
+                    "kik\u00eemetawen"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "kiw\u00een\u00eemihton"
+                ],
+                "prs": [
+                    "kin\u00eemihton"
+                ],
+                "pst": [
+                    "kik\u00een\u00eemihton"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "kiw\u00eepimoht\u00e2n"
+                ],
+                "prs": [
+                    "kipimoht\u00e2n"
+                ],
+                "pst": [
+                    "kik\u00eepimoht\u00e2n"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "kiw\u00eepimpahtan"
+                ],
+                "prs": [
+                    "kipimpahtan"
+                ],
+                "pst": [
+                    "kik\u00eepimpahtan"
+                ]
+            }
+        },
+        "3p": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "w\u00eekw\u00e2skoht\u00f4wak"
+                ],
+                "prs": [
+                    "kw\u00e2skoht\u00f4wak"
+                ],
+                "pst": [
+                    "k\u00eekw\u00e2skoht\u00f4wak"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "w\u00eemetawewak"
+                ],
+                "prs": [
+                    "metawewak"
+                ],
+                "pst": [
+                    "k\u00eemetawewak"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "w\u00een\u00eemihtowak"
+                ],
+                "prs": [
+                    "n\u00eemihtowak"
+                ],
+                "pst": [
+                    "k\u00een\u00eemihtowak"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "w\u00eepimohtewak"
+                ],
+                "prs": [
+                    "pimohtewak"
+                ],
+                "pst": [
+                    "k\u00eepimohtewak"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "w\u00eepimpahtawak"
+                ],
+                "prs": [
+                    "pimpahtawak"
+                ],
+                "pst": [
+                    "k\u00eepimpahtawak"
+                ]
+            }
+        },
+        "3s": {
+            "kw\u00e2skoht\u00f4": {
+                "ft": [
+                    "w\u00eekw\u00e2skoht\u00f4w"
+                ],
+                "prs": [
+                    "kw\u00e2skoht\u00f4w"
+                ],
+                "pst": [
+                    "k\u00eekw\u00e2skoht\u00f4w"
+                ]
+            },
+            "metawe": {
+                "ft": [
+                    "w\u00eemetawew"
+                ],
+                "prs": [
+                    "metawew"
+                ],
+                "pst": [
+                    "k\u00eemetawew"
+                ]
+            },
+            "n\u00eemihto": {
+                "ft": [
+                    "w\u00een\u00eemihtow"
+                ],
+                "prs": [
+                    "n\u00eemihtow"
+                ],
+                "pst": [
+                    "k\u00een\u00eemihtow"
+                ]
+            },
+            "pimohte": {
+                "ft": [
+                    "w\u00eepimohtew"
+                ],
+                "prs": [
+                    "pimohtew"
+                ],
+                "pst": [
+                    "k\u00eepimohtew"
+                ]
+            },
+            "pimpahta": {
+                "ft": [
+                    "w\u00eepimpahtaw"
+                ],
+                "prs": [
+                    "pimpahtaw"
+                ],
+                "pst": [
+                    "k\u00eepimpahtaw"
+                ]
+            }
+        }
+    }
+]

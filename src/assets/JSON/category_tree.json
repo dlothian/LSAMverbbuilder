@@ -1,0 +1,191 @@
+{
+    "1p": {
+        "kw\u00e2skoht\u00f4": [
+            "ft",
+            "prs",
+            "pst"
+        ],
+        "metawe": [
+            "ft",
+            "pst",
+            "prs"
+        ],
+        "n\u00eemihto": [
+            "prs",
+            "ft",
+            "pst"
+        ],
+        "pimohte": [
+            "prs",
+            "pst",
+            "ft"
+        ],
+        "pimpahta": [
+            "prs",
+            "pst",
+            "ft"
+        ]
+    },
+    "1s": {
+        "kw\u00e2skoht\u00f4": [
+            "pst",
+            "ft",
+            "prs"
+        ],
+        "metawe": [
+            "pst",
+            "prs",
+            "ft"
+        ],
+        "n\u00eemihto": [
+            "ft",
+            "pst",
+            "prs"
+        ],
+        "pimohte": [
+            "pst",
+            "ft",
+            "prs"
+        ],
+        "pimpahta": [
+            "pst",
+            "prs",
+            "ft"
+        ]
+    },
+    "2i": {
+        "kw\u00e2skoht\u00f4": [
+            "prs",
+            "pst",
+            "ft"
+        ],
+        "metawe": [
+            "prs",
+            "ft",
+            "pst"
+        ],
+        "n\u00eemihto": [
+            "prs",
+            "ft",
+            "pst"
+        ],
+        "pimohte": [
+            "prs",
+            "pst",
+            "ft"
+        ],
+        "pimpahta": [
+            "prs",
+            "pst",
+            "ft"
+        ]
+    },
+    "2p": {
+        "kw\u00e2skoht\u00f4": [
+            "pst",
+            "prs",
+            "ft"
+        ],
+        "metawe": [
+            "ft",
+            "pst",
+            "prs"
+        ],
+        "n\u00eemihto": [
+            "ft",
+            "prs",
+            "pst"
+        ],
+        "pimohte": [
+            "prs",
+            "pst",
+            "ft"
+        ],
+        "pimpahta": [
+            "pst",
+            "ft",
+            "prs"
+        ]
+    },
+    "2s": {
+        "kw\u00e2skoht\u00f4": [
+            "pst",
+            "ft",
+            "prs"
+        ],
+        "metawe": [
+            "prs",
+            "ft",
+            "pst"
+        ],
+        "n\u00eemihto": [
+            "ft",
+            "prs",
+            "pst"
+        ],
+        "pimohte": [
+            "pst",
+            "prs",
+            "ft"
+        ],
+        "pimpahta": [
+            "prs",
+            "ft",
+            "pst"
+        ]
+    },
+    "3p": {
+        "kw\u00e2skoht\u00f4": [
+            "ft",
+            "pst",
+            "prs"
+        ],
+        "metawe": [
+            "prs",
+            "ft",
+            "pst"
+        ],
+        "n\u00eemihto": [
+            "pst",
+            "ft",
+            "prs"
+        ],
+        "pimohte": [
+            "ft",
+            "prs",
+            "pst"
+        ],
+        "pimpahta": [
+            "pst",
+            "prs",
+            "ft"
+        ]
+    },
+    "3s": {
+        "kw\u00e2skoht\u00f4": [
+            "pst",
+            "prs",
+            "ft"
+        ],
+        "metawe": [
+            "ft",
+            "prs",
+            "pst"
+        ],
+        "n\u00eemihto": [
+            "pst",
+            "ft",
+            "prs"
+        ],
+        "pimohte": [
+            "pst",
+            "prs",
+            "ft"
+        ],
+        "pimpahta": [
+            "pst",
+            "prs",
+            "ft"
+        ]
+    }
+}

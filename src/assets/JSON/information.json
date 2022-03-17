@@ -1,0 +1,92 @@
+[
+    {
+        "name": "subject",
+        "children": [
+            {
+                "id": "1p",
+                "translation": "we (and not you)",
+                "base": "niyan\u00e2n"
+            },
+            {
+                "id": "1s",
+                "translation": "i",
+                "base": "niya"
+            },
+            {
+                "id": "2i",
+                "translation": "we (and you)",
+                "base": "kiyanaw"
+            },
+            {
+                "id": "2p",
+                "translation": "you all",
+                "base": "kiyawaw"
+            },
+            {
+                "id": "2s",
+                "translation": "you",
+                "base": "kiya"
+            },
+            {
+                "id": "3p",
+                "translation": "they",
+                "base": "wiyawaw"
+            },
+            {
+                "id": "3s",
+                "translation": "s/he",
+                "base": "wiya"
+            }
+        ]
+    },
+    {
+        "name": "verb",
+        "children": [
+            {
+                "id": "kw\u00e2skoht\u00f4",
+                "base": "jump",
+                "translation": "kw\u00e2skoht\u00f4"
+            },
+            {
+                "id": "metawe",
+                "base": "play",
+                "translation": "metawe"
+            },
+            {
+                "id": "n\u00eemihto",
+                "base": "dance",
+                "translation": "n\u00eemihto"
+            },
+            {
+                "id": "pimohte",
+                "base": "walk",
+                "translation": "pimohte"
+            },
+            {
+                "id": "pimpahta",
+                "base": "run",
+                "translation": "pimpahta"
+            }
+        ]
+    },
+    {
+        "name": "tense",
+        "children": [
+            {
+                "id": "ft",
+                "translation": "future (going to)",
+                "base": "w\u00ee"
+            },
+            {
+                "id": "prs",
+                "translation": "present",
+                "base": "-"
+            },
+            {
+                "id": "pst",
+                "translation": "past",
+                "base": "k\u00ee"
+            }
+        ]
+    }
+]
